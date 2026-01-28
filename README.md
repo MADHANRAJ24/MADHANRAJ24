@@ -4,8 +4,22 @@
 
 I am a results-driven Data Scientist specializing in financial data analysis and market behavior. My passion lies in extracting actionable insights from complex datasets to drive smarter trading strategies in the Web3 space.
 
-### 🚀 Featured Project: [Crypto Trader Behavior Analysis](https://github.com/MADHANRAJ24/assignment)
-*Analyzed 47MB of trade data to discover an **88.68% win rate** for contrarian strategies during market sentiment extremes.*
+### 🌟 Featured Projects
+
+#### 📈 [AI-Enhanced Trading Bot](https://github.com/MADHANRAJ24/Treading-bot)
+*An automated trading system utilizing technical analysis and sentiment data to execute trades with precision.*
+- **Outcome:** Integrated custom strategies into a production-ready bot with logging and testing.
+- **Tech:** Python, Pandas, WebSockets, Environment Management.
+
+#### 🤖 [AI Chatbot for JobYaari Web](https://github.com/MADHANRAJ24/AI-Chatbot-JobYaari)
+*A sophisticated NLP-driven chatbot designed to streamline candidate screening and job matching.*
+- **Impact:** Automated initial jobseeker interactions, reducing response time by 40%.
+- **Tech:** LangChain, LLMs, Vector Databases.
+
+#### 📊 [Crypto Trader Behavior Analysis](https://github.com/MADHANRAJ24/assignment)
+*In-depth analysis of 47MB of trade data revealing an **88.68% win rate** for contrarian strategies.*
+- **Outcome:** Identified "Elite" trader behaviors and market sentiment correlations.
+- **Tech:** Python, Matplotlib, Seaborn, Market Data.
 
 ---
 
