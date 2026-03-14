@@ -1,4 +1,4 @@
-# Hi, I'm Madhan Raj 👋
+# Hi, I'm MadhanRaj 👋
 
 ## Data Scientist | Quantitative Analyst | Web3 Enthusiast
 
